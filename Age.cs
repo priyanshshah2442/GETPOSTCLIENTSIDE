@@ -1,0 +1,1 @@
+﻿public record class Age(int age);

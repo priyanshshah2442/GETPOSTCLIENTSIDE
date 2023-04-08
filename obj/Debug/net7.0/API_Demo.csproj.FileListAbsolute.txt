@@ -1,0 +1,15 @@
+/Users/priyanshshah/Projects/API_Demo/API_Demo/bin/Debug/net7.0/API_Demo
+/Users/priyanshshah/Projects/API_Demo/API_Demo/bin/Debug/net7.0/API_Demo.deps.json
+/Users/priyanshshah/Projects/API_Demo/API_Demo/bin/Debug/net7.0/API_Demo.runtimeconfig.json
+/Users/priyanshshah/Projects/API_Demo/API_Demo/bin/Debug/net7.0/API_Demo.dll
+/Users/priyanshshah/Projects/API_Demo/API_Demo/bin/Debug/net7.0/API_Demo.pdb
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/API_Demo.csproj.AssemblyReference.cache
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/API_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/API_Demo.AssemblyInfoInputs.cache
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/API_Demo.AssemblyInfo.cs
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/API_Demo.csproj.CoreCompileInputs.cache
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/API_Demo.dll
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/refint/API_Demo.dll
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/API_Demo.pdb
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/API_Demo.genruntimeconfig.cache
+/Users/priyanshshah/Projects/API_Demo/API_Demo/obj/Debug/net7.0/ref/API_Demo.dll
